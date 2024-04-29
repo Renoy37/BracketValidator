@@ -9,6 +9,8 @@ const testbrackets4 = "[(])";
 //not balanced
 const testbrackets5 = "[()";
 
+//comment
+
 //driver function used for display and passing values.
 function checkBrackets() {
 
